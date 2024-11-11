@@ -15,8 +15,11 @@ npm config rm registry "http://registry.npmjs.org/"
 npm config set registry "https://registry.npmmirror.com/"
 
 
-npm i web-vitals --save-dev
+npm i web-vitals --save-devP
+
 
 git config --global user.email "markbullnb@hotmail.com"
 
  git config --global user.name "Bing N"
+npx create-react-app my-react-project
+
