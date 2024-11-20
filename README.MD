@@ -20,6 +20,12 @@ npm i web-vitals --save-devP
 
 git config --global user.email "markbullnb@hotmail.com"
 
- git config --global user.name "Bing N"
+
+git config --global user.name "Bing N"
 npx create-react-app my-react-project
 
+npx generate-react-cli component MyComponent
+
+****
+npm install styled-component
+****
